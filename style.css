@@ -1,0 +1,23 @@
+/* Styling for the aloha class */
+.aloha {
+  color: purple;
+  padding: 20px;
+  font-size: 24px;
+}
+
+/* Styling for the color_me class */
+.color_me {
+  color: red;
+  font-weight: bold;
+}
+
+/* Styling for the background-color class */
+.background-color {
+  background-color: yellow; /* Change to a visible color */
+}
+
+/* Hover effect for the hoverable class */
+.hoverable:hover {
+  background-color: lightblue;
+  color: blue;
+}
